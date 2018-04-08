@@ -2701,7 +2701,7 @@ section.parallax h2 {
 	-webkit-border-radius: 50%;
 	-o-border-radius: 50%;
 	-ms-border-radius: 50%;
-	
+
     -webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
@@ -3596,11 +3596,11 @@ blockquote.default {
 	filter: alpha(opacity=0);
 	color:#fff;
 	cursor: pointer;
-	
+
 	border-radius: 50%;
 	-moz-border-radius: 50%;
-	-webkit-border-radius: 50%;	
-	
+	-webkit-border-radius: 50%;
+
 	transition: all 200ms;
 	-moz-transition: all 200ms;
 	-webkit-transition: all 200ms;
